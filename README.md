@@ -27,4 +27,4 @@ Comparing these many universities based on various parametric features just by u
 ![project-flow](https://github.com/anshulp2912/University-Selector-Visualizer/blob/master/map_tableau.jpg?raw=true)
 
 # Interact with the Tableau Dashboard
-https://public.tableau.com/views/FeeswiseMappingUniversityCS/MastersMap?:language=en&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/profile/anshul.patel#!/vizhome/FeeswiseMappingUniversityCS/MastersMap
